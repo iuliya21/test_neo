@@ -1,0 +1,59 @@
+.shopItem {
+  padding: 18px 28px 15px 18px;
+  background-color: #fff;
+  border-radius: 30px;
+  box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.1);
+  min-width: 633px;
+  display: flex;
+  justify-content: space-between;
+}
+.price {
+  margin: 0;
+  font-size: 15px;
+  font-weight: 600;
+  color: #1c1c27;
+}
+.titleItem {
+  margin: 0 0 12px;
+  color: #1c1c27;
+  font-size: 17px;
+  font-weight: 500;
+}
+.priceItem {
+  margin: 0;
+  color: #aaa;
+  font-size: 15px;
+  font-weight: 600;
+}
+.total {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.iconDelete {
+  width: 20px;
+  height: 17px;
+  align-self: end;
+  cursor: pointer;
+}
+.imageItem {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 147px;
+}
+.element {
+  display: flex;
+  column-gap: 23px;
+  align-items: center;
+}
+.counter {
+  display: flex;
+  column-gap: 25px;
+  justify-content: center;
+  font-size: 17px;
+  font-weight: 600;
+}
+.counterImage {
+  cursor: pointer;
+}

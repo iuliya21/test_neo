@@ -1,0 +1,41 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 15px 0;
+}
+
+.logo {
+  margin: 0;
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 25px;
+  cursor: pointer;
+  color: #101010;
+  text-decoration: none;
+}
+
+.icons {
+  display: flex;
+  column-gap: 45px;
+  align-items: center;
+}
+
+.likes {
+  position: relative;
+  cursor: pointer;
+}
+
+.circle {
+  width: 17.4px;
+  height: 17.4px;
+  background-color: #FFA542;
+  border-radius: 50px;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  top: -8px;
+  right: -10px;
+}
