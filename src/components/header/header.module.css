@@ -25,11 +25,13 @@
   position: relative;
   cursor: pointer;
 }
-
+.icon:hover path {
+  fill: #101010;
+}
 .circle {
   width: 17.4px;
   height: 17.4px;
-  background-color: #FFA542;
+  background-color: #ffa542;
   border-radius: 50px;
   color: #fff;
   display: flex;

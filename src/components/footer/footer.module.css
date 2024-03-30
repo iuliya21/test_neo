@@ -16,6 +16,7 @@
   font-weight: 700;
   margin: 0;
   color: #101010;
+  text-decoration: none;
 }
 .list {
   padding: 0;
@@ -30,6 +31,13 @@
 }
 .listItem {
   cursor: pointer;
+}
+.link {
+  color: #000;
+  text-decoration: none;
+}
+.listItem:hover {
+  text-decoration: underline #ffa542;
 }
 .footerNav {
   display: flex;

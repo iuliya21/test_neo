@@ -5,6 +5,8 @@ const headphones = [
     price: 3527,
     rate: 4.7,
     discount: 0.83,
+    count: 1,
+    description: "Самые лучшие наушники1"
   },
   {
     img: "/images/headphones2.png",
@@ -12,6 +14,8 @@ const headphones = [
     price: 2327,
     rate: 4.5,
     discount: 1,
+    count: 1,
+    description: "Самые лучшие наушники2"
   },
   {
     img: "/images/headphones3.png",
@@ -19,6 +23,8 @@ const headphones = [
     price: 2327,
     rate: 4.5,
     discount: 1,
+    count: 1,
+    description: "Самые лучшие наушники3"
   },
   {
     img: "/images/headphones1.png",
@@ -26,6 +32,8 @@ const headphones = [
     price: 2927,
     rate: 4.7,
     discount: 1,
+    count: 1,
+    description: "Самые лучшие наушники4"
   },
   {
     img: "/images/headphones2.png",
@@ -33,6 +41,8 @@ const headphones = [
     price: 2327,
     rate: 4.5,
     discount: 1,
+    count: 1,
+    description: "Самые лучшие наушники5"
   },
   {
     img: "/images/headphones3.png",
@@ -40,6 +50,8 @@ const headphones = [
     price: 2327,
     rate: 4.5,
     discount: 1,
+    count: 1,
+    description: "Самые лучшие наушники6"
   },
 ]
 
@@ -50,6 +62,8 @@ const headphonesWireless = [
     price: 9527,
     rate: 4.7,
     discount: 1,
+    count: 1,
+    description: "Самые лучшие наушники7"
   },
   {
     img: "/images/headphones5.png",
@@ -57,6 +71,8 @@ const headphonesWireless = [
     price: 6527,
     rate: 4.7,
     discount: 1,
+    count: 1,
+    description: "Самые лучшие наушники8"
   },
   {
     img: "/images/headphones6.png",
@@ -64,6 +80,8 @@ const headphonesWireless = [
     price: 7527,
     rate: 4.7,
     discount: 1,
+    count: 1,
+    description: "Самые лучшие наушники9"
   },
 ]
 
